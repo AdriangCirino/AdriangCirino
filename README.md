@@ -1,69 +1,115 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0B1020,50:312E81,100:7C3AED&amp;text=Adrian%20Cirino&amp;fontColor=FFFFFF&amp;fontSize=48&amp;fontAlignY=40&amp;desc=Infrastructure%20%7C%20Linux%20%7C%20Development&amp;descSize=17&amp;descAlignY=62&amp;animation=fadeIn" alt="Banner Adrian Cirino" />
+  <!-- Banner Topo -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:312E81,100:7C3AED&text=Adrian%20Cirino&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=Infrastructure%20%7C%20Linux%20%7C%20Development&descSize=17&descAlignY=62&animation=fadeIn" alt="Banner Adrian Cirino" />
 
-### Olá, eu sou o Adrian! 👋
+  <!-- Subtítulo e Tags de Localização/Rede -->
+  <p align="center">
+    <b>Analista de Servidores na IXC Soft</b> • <b>Estudante de Ciência da Computação na UFFS</b>
+  </p>
 
-**Analista de Servidores na IXC Soft** · **Estudante de Ciência da Computação na UFFS**
-
-Gosto de entender como a tecnologia funciona por trás das telas e criar ferramentas que resolvem problemas reais.
-
-<a href="https://github.com/AdriangCirino"><img src="https://img.shields.io/badge/GitHub-AdriangCirino-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Meu GitHub" /></a>
-<img src="https://img.shields.io/badge/Chapec%C3%B3-SC-7C3AED?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Chapecó, Santa Catarina" />
+  <p align="center">
+    <a href="https://github.com/AdriangCirino">
+      <img src="https://img.shields.io/badge/GitHub-AdriangCirino-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <img src="https://img.shields.io/badge/Chapec%C3%B3--SC-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Chapecó, SC" />
+  </p>
 
 </div>
 
+<br />
+
+### Sobre Mim
+
+> *Entendendo como a tecnologia funciona por trás das telas, conectando infraestrutura ao desenvolvimento e criando ferramentas para problemas reais.*
+
+- **Atuação:** Foco em servidores, administração de sistemas Linux e implantação de serviços.
+- **Interesses:** Redes, segurança, automação de fluxos, contêineres e arquitetura cloud.
+- **Formação:** Graduando em Ciência da Computação na Universidade Federal da Fronteira Sul (**UFFS**).
 ---
 
-### 👨‍💻 Sobre mim
+### Tech Stack
 
-- 🖥️ Trabalho com **servidores, infraestrutura e implantação de serviços**.
-- 🐧 Tenho interesse especial por **Linux, redes, automação e DevOps**.
-- 🎓 Curso **Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS)**.
-- 🛠️ Gosto de desenvolver ferramentas que tornam tarefas técnicas mais simples, especialmente no **VS Code**.
-- 📚 Estou sempre explorando novas formas de conectar **infraestrutura e desenvolvimento**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Infraestrutura & Cloud</h4>
+      <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" />
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=0078D4" />
+      <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" />
+      <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Dados & Mensageria</h4>
+      <img src="https://img.shields.io/badge/MariaDB-0D1117?style=flat-square&logo=mariadb&logoColor=003545" />
+      <img src="https://img.shields.io/badge/Elasticsearch-0D1117?style=flat-square&logo=elasticsearch&logoColor=FEC514" />
+      <img src="https://img.shields.io/badge/RabbitMQ-0D1117?style=flat-square&logo=rabbitmq&logoColor=FF6600" />
+      <img src="https://img.shields.io/badge/Memcached-0D1117?style=flat-square&logo=memcached&logoColor=FFFFFF" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Segurança & Redes</h4>
+      <img src="https://img.shields.io/badge/nftables-0D1117?style=flat-square&logo=linux&logoColor=FCC624" />
+      <img src="https://img.shields.io/badge/Fail2ban-0D1117?style=flat-square&logo=linux&logoColor=FFFFFF" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Linguagens & Runtimes</h4>
+      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4" />
+      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+      <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25" />
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC" />
+      <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C" />
+    </td>
+  </tr>
+</table>
 
-### 🧰 Tecnologias e ferramentas
+---
 
-**Infraestrutura e ferramentas**
+### Projetos em Destaque
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=007ACC" alt="Visual Studio Code" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>NetLab UFFS</h3>
+      <p>Laboratório interativo de redes para aproximar conceitos teóricos da prática, com simulação de topologias e comunicação entre nós.</p>
+      <p><code>React</code> · <code>JavaScript</code> · <code>React Flow</code></p>
+      <a href="https://github.com/AdriangCirino/NetLab-UFFS"><b>Ver repositório »</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SPED Fiscal Tools</h3>
+      <p>Ferramenta de produtividade para leitura, sintaxe destacada e análise estruturada de arquivos do SPED Fiscal.</p>
+      <p><code>TypeScript</code> · <code>VS Code Extension</code></p>
+      <a href="https://github.com/AdriangCirino/sped-fiscal-tools"><b>Ver repositório »</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>NFe Tools</h3>
+      <p>Utilitários e visualizadores focados em otimizar o fluxo de trabalho com documentos fiscais eletrônicos e XMLs.</p>
+      <p><code>TypeScript</code> · <code>XML</code></p>
+      <a href="https://github.com/AdriangCirino/nfe-tools"><b>Ver repositório »</b></a>
+    </td>
+</table>
 
-**Linguagens**
+---
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&amp;logo=c&amp;logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=00599C" alt="C++" />
-</p>
-
-### 🚀 Projetos em destaque
-
-| Projeto | O que é | Tecnologias |
-| :-- | :-- | :-- |
-| [**SPED Fiscal Tools**](https://github.com/AdriangCirino/sped-fiscal-tools) | Extensão para VS Code que facilita a leitura e análise de arquivos SPED Fiscal com destaque de sintaxe e documentação de campos. | `TypeScript` · `VS Code API` |
-| [**NFe Tools**](https://github.com/AdriangCirino/nfe-tools) | Ferramentas para trabalhar com documentos fiscais eletrônicos e XML diretamente no VS Code. | `TypeScript` · `XML` |
-
-### 📊 Meu GitHub
+### Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdriangCirino&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;icon_color=8B5CF6&amp;locale=pt-br" alt="Estatísticas do GitHub do Adrian" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriangCirino&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;langs_count=6" alt="Linguagens nos repositórios do Adrian" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdriangCirino&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriangCirino&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Linguagens mais usadas" />
 </div>
 
----
+<br />
 
 <div align="center">
-
-**Infraestrutura, código e curiosidade por como as coisas funcionam.**
-
-<sub>Construindo, aprendendo e compartilhando pelo caminho.</sub>
-
+  <sub><i>Infraestrutura, código e curiosidade por como as coisas funcionam.</i></sub>
 </div>

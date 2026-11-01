@@ -8,13 +8,6 @@
     <b>Analista de Servidores na IXC Soft</b> • <b>Estudante de Ciência da Computação na UFFS</b>
   </p>
 
-  <p align="center">
-    <a href="https://github.com/AdriangCirino">
-      <img src="https://img.shields.io/badge/GitHub-AdriangCirino-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <img src="https://img.shields.io/badge/Chapec%C3%B3--SC-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Chapecó, SC" />
-  </p>
-
 </div>
 
 <br />

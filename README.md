@@ -1,5 +1,5 @@
 <div align="center">
-
+  
   <a href="https://github.com/AdriangCirino">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=adrian%40server%3A~%24+whoami&repeat=false" alt="Terminal Typing Effect" />
   </a>
